@@ -1,0 +1,3 @@
+[submodule "friend_repo/friend_repo/SoftwareOevelse3"]
+	path = friend_repo/friend_repo/SoftwareOevelse3
+	url = https://github.com/spnrnav/SoftwareOevelse3
